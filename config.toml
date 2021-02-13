@@ -1,0 +1,49 @@
+baseURL = "https://messhart.github.io"
+languageCode = "en-us"
+title = "🌒"
+theme = "archie"
+copyright = "© 💊"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = "「陪你入眠的是溫柔閃電」"
+
+[[params.social]]
+name = "Mastodon: @rodot@typo.science"
+icon = "anchor"
+url = "https://typo.science/web/accounts/7#"
+
+[[params.social]]
+name = "Notion: Bloomington"
+icon = "home"
+url = "https://www.notion.so/Bloomington-cdda89a2217a46fe8c4fb7d417e692dc"
+
+[[params.social]]
+name = "Matrix: @med:attic.typo.science"
+icon = "message-circle"
+url = ""
+
+[[params.social]]
+name = "write to me"
+icon = "mail"
+url = "mailto:dyfttym@protonmail.ch"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Buzz"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+ignoreErrors = ["error-remote-getjson"]

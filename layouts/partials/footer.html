@@ -1,0 +1,16 @@
+<footer>
+<hr>
+{{- range $index, $key := .Site.Params.Social -}}
+<a class="soc" href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>|
+{{- end -}} ⚡
+      {{ dateFormat "2006" now }} {{ with .Site.Copyright }} {{ . }} - {{ end }} <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> | Theme forked from <a href="https://github.com/athul/archie">Archie</a> | Powered by <a href="https://gohugo.io">Hugo</a>
+</footer>
+{{ if not .Site.IsServer }}
+{{ template "_internal/google_analytics_async.html" . }}
+{{ end }}
+
+{{- if (isset .Site.Params "social") -}}
+<script>
+      feather.replace()
+</script>
+{{- end -}}
