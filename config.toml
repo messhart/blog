@@ -1,4 +1,4 @@
-baseURL = "https://messhart.github.io"
+baseURL = "https://messhart.github.io/"
 languageCode = "en-us"
 title = "🌒"
 theme = "archie"
