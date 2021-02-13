@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
 name = "Mastodon: @rodot@typo.science"
 icon = "anchor"
-url = "https://typo.science/web/accounts/7#"
+url = "https://typo.science/@rodot"
 
 [[params.social]]
 name = "Notion: Bloomington"
