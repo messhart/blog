@@ -46,4 +46,10 @@ name = "Tags"
 url = "/tags"
 weight = 3
 
+[params.utteranc]
+  enable = true
+  repo = "messhart/hugoblogtalks"
+  issueTerm = "pathname"
+  theme = "github-light"
+
 ignoreErrors = ["error-remote-getjson"]

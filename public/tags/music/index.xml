@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>🌒</title>
-    <link>https://messhart.github.io/</link>
-    <description>Recent content on 🌒</description>
+    <title>music on 🌒</title>
+    <link>https://messhart.github.io/tags/music/</link>
+    <description>Recent content in music on 🌒</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 💊</copyright>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://messhart.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://messhart.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我听生祥这几年（上）</title>
       <link>https://messhart.github.io/posts/allaboutshengxiang/</link>
@@ -39,56 +39,6 @@
  就系恁呐 / 就是这样
 挨骑着风神125 / 我骑着风神125
 直别这只发廅介都市 / 辞别这个哮喘的都市</description>
-    </item>
-    
-    <item>
-      <title>May and June</title>
-      <link>https://messhart.github.io/posts/maynjune/</link>
-      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://messhart.github.io/posts/maynjune/</guid>
-      <description> 在二〇二一年春节联欢晚会的直播画面中，再一次听到武汉解封时的鸣笛声。我的祖国想要用强烈的音乐和图像覆盖我对于漫长冬季的回忆，好在我还有足量的愤怒，以及几行微不足道的文字来对抗它。
-另附上上学期 final week 学疯了之后的胡言乱语几行。本质都是情书，请无视我啦。
-  如果我变成山
-请敲下我的骨头
-修一座不那么灯火通明的桥
-请带着我皲裂的皮肤我干涸的血
-我颈间无所事事的梦游的云
-跨过长江 行过长夜
-交到她手上
- 2020.4.8 写在解封日
-  六月是没有颜色的
-若有，就是通宵候车室
-头顶的白
- 七月是单一光谱
-不见黄土，不见模糊的群山
-在一无所有中
-闪电般掠过一线蓝
- 2020.6.9 狱中漫想
- </description>
-    </item>
-    
-    <item>
-      <title>第一篇 post</title>
-      <link>https://messhart.github.io/posts/myfirstpost/</link>
-      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://messhart.github.io/posts/myfirstpost/</guid>
-      <description> 热烈庆祝我还是没学会前端！不过目前这个 theme 的美观程度还是能令我暂时舒心的，嗯嗯。我觉得 dark mode 的配色很好看，希望大家有机会把设备调到 dark mode 看看（？）
-懒得加评论系统，改天再说啦。
-目标是这个网站比我活得久，所以就没有用自己的域名。
-虽然是 Windows 人，但还是要鸣谢 CS 女神的 建站教程 ！
- 追加：用 这个教程 配置了 utterances 作为评论系统。有个小问题是，评论只能有一层，所以如果我没有回复你的评论的话那只能是因为 utterances 不行（顶锅盖逃
- </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://messhart.github.io/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://messhart.github.io/archives/</guid>
-      <description></description>
     </item>
     
   </channel>
